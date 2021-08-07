@@ -11,7 +11,7 @@ public class Customer {
     private String name;
     private String address;
     private String telephone;
-    private String dOb;
+    private Date dOb;
 
     public Customer(String name, String address, String telephone, String dOb) {
         this.name = name;
