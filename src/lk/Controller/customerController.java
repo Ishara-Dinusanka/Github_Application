@@ -5,7 +5,7 @@
  *  *
  */
 
-package lk.pirate.demoFx.controller;
+package lk;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
