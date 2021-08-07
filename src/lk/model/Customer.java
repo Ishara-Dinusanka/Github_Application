@@ -10,7 +10,7 @@ package lk;
 public class Customer {
     private String name;
     private String address;
-    private String telephone;
+    private int telephone;
     private Date dOb;
 
     public Customer(String name, String address, String telephone, String dOb) {
