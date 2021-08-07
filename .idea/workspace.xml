@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fa8de0c-1251-413e-9d37-c39a200b145f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wO9T3AlFSGkcnlkYAxI1qNAkfJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lk/view" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\intellij-Projects\Github_Application\src\lk\view" />
+      <recent name="E:\intellij-Projects\Github_Application\src\lk\model" />
+      <recent name="E:\intellij-Projects\Github_Application\src\lk\Controller" />
+      <recent name="E:\intellij-Projects\Github_Application\src\lk\db" />
+      <recent name="E:\intellij-Projects\Github_Application" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fa8de0c-1251-413e-9d37-c39a200b145f" name="Default Changelist" comment="" />
+      <created>1628318771133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628318771133</updated>
+      <workItem from="1628318774214" duration="4341000" />
+      <workItem from="1628324369193" duration="119000" />
+    </task>
+    <task id="LOCAL-00001" summary="customer-controller">
+      <created>1628321937949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628321937949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DB-Cs-Ds-added">
+      <created>1628322807342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628322807342</updated>
+    </task>
+    <task id="LOCAL-00003" summary="package changed">
+      <created>1628322844793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628322844793</updated>
+    </task>
+    <task id="LOCAL-00004" summary="customer_model added">
+      <created>1628322903223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628322903223</updated>
+    </task>
+    <task id="LOCAL-00005" summary="customer issue fixed">
+      <created>1628323087933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628323087933</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Item files added">
+      <created>1628323405434</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628323405434</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added">
+      <created>1628323465760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628323465760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="customer-controller" />
+    <MESSAGE value="DB-Cs-Ds-added" />
+    <MESSAGE value="package changed" />
+    <MESSAGE value="customer_model added" />
+    <MESSAGE value="customer issue fixed" />
+    <MESSAGE value="Item files added" />
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="232" key="#Notifications" timestamp="1628324489021">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="568" y="232" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1628324489021" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1628323464771">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1628323464771" />
+    <state x="463" y="70" key="FileChooserDialogImpl" timestamp="1628318794163">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="70" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1628318794163" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1628321867478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1628321867478" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1628323473595">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1628323473595" />
+    <state x="65" y="30" key="new project wizard" timestamp="1628318825563">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="30" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1628318825563" />
+  </component>
+</project>
