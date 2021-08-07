@@ -10,7 +10,7 @@ package lk;
 public class Item {
     private String name;
     private String price;
-    private Date expDate;
+    private String expDate;
     private String qty;
 
     public Item(String name, String price, String expDate, String qty) {
